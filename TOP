@@ -29,3 +29,27 @@
 <fanart>https://image.tmdb.org/t/p/original/eYz9092lI2IFS6Ho0Xs296A5YJK.jpg</fanart>
 <info></info>
 </item>
+
+<item>
+<title>[COLOR yellow]O Ultimo Sharknado Ja Estava na Hora[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16OQYoNt061Lz4lCI2Bg39RG7ORMjGhwV/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/3UvjXMdBdmf8wrYcDfi41Mt1DIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vbLu9WMRv1fpwJz5XSNXms1QGh0.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR yellow]Esquadrao 6[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/131U-V2LX53cpMefhzC0J025JhWHLJ--M/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/f35zQlRTkEO9LBWDWaikiXzQrmD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/eFw5YSorHidsajLTayo1noueIxI.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR yellow]O Exterminador do Futuro Destino Sombrio[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/155GskA-OXFvbCLvLDQ7LdPeLFylACqs8/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/riTANvQ8GKmQbgtC1ps3OfkU43A.jpg</fanart>
+<info></info>
+</item>
